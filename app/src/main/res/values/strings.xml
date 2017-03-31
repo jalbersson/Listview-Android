@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string-array name="Lista">
+        <item>Colombia</item>
+        <item>Chile</item>
+        <item>Peru</item>
+        <item>Paraguay</item>
+        <item>Uruguay</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+    </string-array>
+    <string name="hint">Escriba un país</string>
+</resources>
